@@ -1,5 +1,5 @@
   ### Hi there 👋 I'm Sanjana Negi  
-  I'm currently Studying Information Technology 
+
 
 <!--
 **sanjananegi15/sanjananegi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
